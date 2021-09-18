@@ -109,10 +109,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="119.86957"
+     inkscape:cx="13.86957"
      inkscape:cy="256.76152"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4717"
      showgrid="true"
      inkscape:object-paths="false"
      inkscape:object-nodes="true"
@@ -2164,7 +2164,7 @@
          x="0"
          style="fill:#ff0000;stroke:#ffffff;stroke-opacity:1" />
       <path
-         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-opacity:1"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-opacity:1"
          d="M 18.5,299.225 V 298.7 l 0.6,0.375 z"
          id="path4397"
          inkscape:connector-curvature="0"
