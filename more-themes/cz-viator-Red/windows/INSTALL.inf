@@ -35,8 +35,8 @@ ns-resize.cur
 progress.ani
 
 [Strings]
-CUR_DIR       = "Cursors\cz-Viator-Red"
-SCHEME_NAME   = "cz Viator Red"
+CUR_DIR       = "Cursors\cz-viator-Red"
+SCHEME_NAME   = "cz-viator Red"
 alternate     = "center_ptr.cur"
 busy          = "wait.ani"
 cross         = "crosshair.cur"
