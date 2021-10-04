@@ -1,0 +1,58 @@
+; cz-Viator Dark Aero (no shadow) cursor theme
+; Right click on the file INSTALL.inf and select „Install“. Then apply cz-Viator in Control Panel > Appearance and Personalization > Personalization > Change mouse pointers.
+
+[Version]
+signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,%10%\%CUR_DIR%\%help%,%10%\%CUR_DIR%\%work%,%10%\%CUR_DIR%\%busy%,%10%\%CUR_DIR%\%cross%,%10%\%CUR_DIR%\%text%,%10%\%CUR_DIR%\%pen%,%10%\%CUR_DIR%\%unavailiable%,%10%\%CUR_DIR%\%vert%,%10%\%CUR_DIR%\%horz%,%10%\%CUR_DIR%\%dgn1%,%10%\%CUR_DIR%\%dgn2%,%10%\%CUR_DIR%\%move%,%10%\%CUR_DIR%\%alternate%,%10%\%CUR_DIR%\%link%,%10%\%CUR_DIR%\%pin%,%10%\%CUR_DIR%\%person%"
+
+; -- Installed files
+
+[Scheme.Cur]
+center_ptr.cur
+wait.ani
+crosshair.cur
+nwse-resize.cur
+nesw-resize.cur
+help.cur
+ew-resize.cur
+INSTALL.inf
+pointing_hand.cur
+move.cur
+pencil.cur
+left_ptr.cur
+text.cur
+not-allowed.cur
+ns-resize.cur
+progress.ani
+person.cur
+pin.cur
+
+[Strings]
+CUR_DIR       = "Cursors\cz-viator-Dark-Aero_no-shadow"
+SCHEME_NAME   = "cz-viator Dark Aero (no shadow)"
+alternate     = "center_ptr.cur"
+busy          = "wait.ani"
+cross         = "crosshair.cur"
+dgn1          = "nwse-resize.cur"
+dgn2          = "nesw-resize.cur"
+help          = "help.cur"
+horz          = "ew-resize.cur"
+link          = "pointing_hand.cur"
+move          = "move.cur"
+pen           = "pencil.cur"
+pointer       = "left_ptr.cur"
+text          = "text.cur"
+unavailiable  = "not-allowed.cur"
+vert          = "ns-resize.cur"
+work          = "progress.ani"
+pin           = "pin.cur"
+person        = "person.cur"
